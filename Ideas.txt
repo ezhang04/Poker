@@ -1,0 +1,27 @@
+Why: I want to paly poker with friends but dont always have the time to go to their house in person. I want to create this Full Stack website for my friends and I to play casual poker online
+
+Idea 1: Full Stack Website
+  Why: One of my passions is creating full stack websites. so this would be a great idea to practice and hone my skills
+  Tools: 
+  1. https://deckofcardsapi.com/ - Deck of Cards API
+    a. Could make my own Deck/Card objects but using API would make my work much easier and has many of the functions already built in
+  2. Python (Django/Flask) backend to handle game logic
+    a. Shuffle Deck
+    b. Hand out Cards
+    c. Keep track of Big, Little, Dealer Chip
+    d. Keep track of money accrued
+  3. Frontend (React - framework, Socket.IO - handle connection + requests to backend, PixiJS - crate graphics)
+    a. Have to learn JS (https://roadmap.sh/full-stack)
+    b. Learn React
+  4. Multiplayer Capability
+    a. using Sockets to connect players with realatively low latency
+
+Idea 2: Unity Game Engine
+  Why: Unity Game Engine has many of the functionality I need built in. 
+  Tools: 
+
+Idea 3: PyGame (https://www.youtube.com/watch?v=_fx7FQ3SP0U&list=PLzMcBGfZo4-kR7Rh-7JCVDN8lm3Utumvq&ab_channel=TechWithTim)
+  Why: Allows me to learn the basics of multiplayer and connections without having to create a fullstack website
+  Tools: 
+  1. Pygame
+  2. Sockets
