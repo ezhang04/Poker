@@ -12,3 +12,15 @@ High card - Garbage hand
 1. Place starting bets ("ante up")
   a. The player next to the dealer typically places a small blind bet that’s half of the usual minimum bet and the person to the left places a big blind that's at least the minimum bet
   b. both players place a minimum starting bet into the pool
+2. Dealer "burns" first card on the deck (removing top most card to prevent card counting) and passes 2 cards to each player starting from left to right
+3. Bet, call, or raise after each round
+  a. "Bet" - place an initial bet if no one else has
+  b. "Check" - to avoid betting
+  c. "Call" - to match someone else's bet
+  d. "Raise" - to add money to the pool, all other players must either call or fold
+4. Dealer "burns" the top card of the deck and places 3 cards face up (the "flop"), these are community cards that all players can use to build their hand, then place a bet, call a bet, or fold.
+5. Dealer "burns" the top card of the deck and places 1 card face up next to the flop, this is called the "turn" card, then place a bet, call a bet, or fold.
+6. Dealer "burns" the top card of the deck and places 1 card face up next to the turn, this is called the "river" card, then place a bet, call a bet, or fold.
+7. After each player calls, folds, or bets in the last round, each remaining player will participate in the “showdown” starting to the left of the dealer
+  a. If there is a tie, the tied players split the pot.
+  b. If you fold your hand, then you don’t have to show your cards.
